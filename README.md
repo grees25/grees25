@@ -1,4 +1,4 @@
-### Hello, I am Grees Sitoula, a Front-End Developer with 2+ years of experience. And Currently I am working a Web administrator and Digital Marketer.
+### Hello, I am Grees Sitoula, a Front-End Developer with 2+ years of experience. And Currently I am working as a Web administrator and Digital Marketer.
 **Learning** **and working for years, I have consistently proven my ability to meet the deadlines and achieve project
 objectives, solve mission-critical problems and prioritize crucial tasks while maintaining the high standards
 expected of my role.**
