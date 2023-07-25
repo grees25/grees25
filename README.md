@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 Former worker on Prelude Learning Institute.
 - 💬 Ask me about JavaScript, html5, css4, Bootstrap
-- 📫 How to reach me: Twitter [FaceBook](https://www.facebook.com/profile.php?id=100006853098723), [Instagram](https://www.instagram.com/greessitoula/), [Linkden](https://www.instagram.com/greessitoula/](https://www.linkedin.com/in/barshad-sitoula-02956b240/))
+- 📫 How to reach me: Twitter [FaceBook](https://www.facebook.com/profile.php?id=100006853098723), [Instagram](https://www.instagram.com/greessitoula/), [Linkden] (https://www.linkedin.com/in/barshad-sitoula-02956b240/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: “One thing I cannot live without is Coding”.
 <img src="https://github-readme-stats.vercel.app/api?username=grees25&&show_icons=true&title_color=#003300&icon_color=#003300&text_color=daf7dc&bg_color=ffffff">
